@@ -10,7 +10,7 @@
 - Compute, storage, and database availability as a service
 
 [Amazon Web Services](https://aws.amazon.com/compliance/shared-responsibility-model/)\
-[Google Cloud Platform](https://cloud.google.com/security/best-practices)
+[Google Cloud Platform](https://cloud.google.com/security/best-practices)\
 [Microsoft Azure](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
 
 # Organization Responsibilites
